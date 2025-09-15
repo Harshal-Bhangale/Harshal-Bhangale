@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 Codolio Profile Stats  
+### 📊 Codolio Profile Stats
 
 <p align="center">
   <a href="https://codolio.com/profile/Yu2P26TZ">
