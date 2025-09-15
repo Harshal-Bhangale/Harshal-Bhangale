@@ -41,13 +41,12 @@
 
 ---
 
-### 📊 LeetCode Progress
-<div align="center"> 
-  <a href="https://leetcode.com/u/Harshal-Bhangale/" target="_blank"> 
-    <img src="https://leetcard.jacoblin.cool/Harshal-Bhangale?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" /> 
-  </a> 
-</div>
-
+### 📊 Codolio Profile Stats  
+<p align="center">
+  <a href="https://codolio.com/profile/Yu2P26TZ">
+    <img src="https://codolio.com/api/badge/yourusername" alt="Codolio Stats" />
+  </a>
+</p>
 ---
 
 ### 📫 Connect With Me  
