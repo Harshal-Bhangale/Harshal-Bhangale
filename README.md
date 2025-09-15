@@ -1,11 +1,7 @@
-<!-- GitHub Profile README for Anis196 -->
+<!-- GitHub Profile README -->
 
-<h1 align="center">Hello! I'm Harshal Bhangale</h1>
-<!-- <h3 align="center">Visionary Strategist of Multidimensional Backend Synergy and Cognitive API Integration for Enterprise-Grade Innovation Amplification. Catalyzes the convergence of GPU-optimized algorithmic paradigms and real-time data orchestration ecosystems to propel open-source community synergistics and DevOps operational excellence through the Omni-Dynamic CodeVantage Collective. Formerly Chief Architect of Relational Data Coherence at the Global Alliance for Computational Vision Scalability and Agile Architectural Proliferation. Senior Executive Lead of Transformative SaaS Enablement at NexusCore Enterprises </h3> -->
-
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&center=true&vCenter=true&width=435&lines=Technology+Enthusiast;Software+Developer;President+of+ACM+RSCOE;Teacher%2FMentor" alt="Typing SVG" /></a>
-</p> -->
+<h1 align="center">👋 Hello! I'm Harshal Bhangale</h1>
+<h3 align="center">Full-Stack Developer | Java & Spring Boot Enthusiast | Hackathon Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshal-Bhangale&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal-Bhangale" />
@@ -14,11 +10,11 @@
 ---
 
 ### 🚀 About Me  
-- 💻 Passionate software developer with a **deep-driven understanding of Java technologies**, building **robust, efficient, and scalable solutions**  
-- 🎯 Actively participate in **hackathons**, transforming innovative ideas into **practical coding solutions**  
-- 🌱 Constantly exploring **cutting-edge technologies, cloud-native tools, and modern frameworks** to stay ahead of industry trends  
-- 🤝 Open to collaborating on **Open-Source, SaaS products, and AI/ML-driven innovations**  
-- 📈 Strong focus on **clean architecture, problem-solving, and professional growth**  
+💻 Passionate software developer with a **deep understanding of Java technologies**, building **robust, efficient, and scalable solutions**  
+🎯 Actively participate in **hackathons**, transforming ideas into **real coding solutions**  
+🌱 Constantly exploring **cutting-edge technologies, cloud-native tools, and modern frameworks**  
+🤝 Open to collaborating on **Open-Source, SaaS products, and AI/ML-driven innovations**  
+📈 Strong focus on **clean architecture, problem-solving, and professional growth**  
 
 ---
 
@@ -42,23 +38,21 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![Langflow](https://img.shields.io/badge/Langflow-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
-
 ---
-### Leetcode Progress
+
+### 📊 LeetCode Progress
 <div align="center"> 
-  <a href="https://leetcode.com/u/Harshal-Bhangale/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Harshal-Bhangale?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" /> </a> 
+  <a href="https://leetcode.com/u/Harshal-Bhangale/" target="_blank"> 
+    <img src="https://leetcard.jacoblin.cool/Harshal-Bhangale?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" /> 
+  </a> 
 </div>
 
 ---
 
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-bhangale-5b803623a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshalbhangale90@gmail.com)
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.link) -->
+### 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-bhangale-5b803623a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshalbhangale90@gmail.com)  
 
 ---
 
-<!-- Optional: Footer or Credits -->
- Thanks for visiting my profile!
+✨ *Thanks for visiting my profile! Let's build something amazing together!* 🚀
