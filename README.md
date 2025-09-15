@@ -45,9 +45,10 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/Yu2P26TZ">
-    <img src="https://codolio.com/api/badge/Yu2P26TZ" alt="Codolio Stats" />
+    <img src="https://codolio.com/profile/Yu2P26TZ/card" alt="Codolio Profile Card" />
   </a>
 </p>
+
 
 ---
 
