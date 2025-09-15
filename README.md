@@ -45,8 +45,8 @@
 
 ---
 ### Leetcode Progress
-<div align="center">
-  <img src="https://leetcode.com/u/Harshal-Bhangale/?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+<div align="center"> 
+  <a href="https://leetcode.com/u/Harshal-Bhangale/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Harshal-Bhangale?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" /> </a> 
 </div>
 
 ### 📊 GitHub Stats
