@@ -49,21 +49,6 @@
   <a href="https://leetcode.com/u/Harshal-Bhangale/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Harshal-Bhangale?theme=chartreuse&font=Poppins&ext=heatmap" alt="LeetCode Stats" /> </a> 
 </div>
 
-### 📊 GitHub Stats  
-
-<div align="center">
-
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshal-Bhangale&show_icons=true&theme=radical&hide_border=true" width="47%"/>  
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Bhangale&theme=radical&hide_border=true" width="47%"/>  
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal-Bhangale&layout=compact&theme=radical&hide_border=true" width="47%"/>  
-
-</div>
-
 ---
 
 ### 📫 Let's Connect
