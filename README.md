@@ -1,7 +1,8 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">👋 Hello! I'm Harshal Bhangale</h1>
-<h3 align="center">Full-Stack Developer | Java & Spring Boot Enthusiast | Hackathon Innovator</h3>
+<h3 align="center">Full-Stack Developer | Java & Spring Boot Enthusiast | AI-ML  </h3>
+<h2 align="center"> Being a technology enthusiast, I have been exploring the fields of computer science. </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshal-Bhangale&label=Profile%20views&color=0e75b6&style=flat" alt="Harshal-Bhangale" />
