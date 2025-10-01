@@ -51,14 +51,17 @@
 
 ---
 
+### Hacktoberfest 2025
+
 [![An image of @harshalbhangale4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshalbhangale4)](https://holopin.io/@harshalbhangale4)
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
 [![Portfolio](https://harshal-dev.vercel.app/)](https://harshal-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-bhangale-5b803623a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshalbhangale90@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-bhangale-5b803623a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshalbhangale90@gmail.com)
+
 
 ---
 
